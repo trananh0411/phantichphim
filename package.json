@@ -1,0 +1,30 @@
+{
+  "name": "phantichphim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trananh0411/phantichphim.git"
+  },
+  "keywords": [
+    "phatichphim",
+    "trantuananh"
+  ],
+  "author": "tuantran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trananh0411/phantichphim/issues"
+  },
+  "homepage": "https://github.com/trananh0411/phantichphim#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
